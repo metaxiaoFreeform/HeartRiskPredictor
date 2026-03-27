@@ -55,7 +55,7 @@ export default function HeroSection() {
             {t("hero.github")}
             <br />
             <span className="inline-flex items-center gap-1 mt-2">
-              <a href="https://github.com/metaxiaoFreeform" className="hover:text-blue-400 transition"><FaGithub size={24} /></a> star-this-project
+              <a href="https://github.com/metaxiaoFreeform/HeartRiskPredictor" className="hover:text-blue-400 transition"><FaGithub size={24} /></a> star-this-project
             </span>
           </p>
 
