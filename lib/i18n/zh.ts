@@ -1,13 +1,13 @@
 export const zh = {
   hero: {
-    tag: "基于 AHA 和 PHRI 的研究成果",
+    tag: "基于 AHA PREVENT™ 和 PHRI 的研究成果",
     title: "一分钟心血管疾病风险评估",
     subtitle: "一分钟内了解您的心血管健康状况。快速评估模式无需任何血液检测报告。",
     github: "如果这个工具对您有帮助，请在 GitHub 上给我们点亮星星！🚀",
   },
   tabs: {
     quick: "快速测试 (NL-IHRS)",
-    pro: "专业版 (AHA PREVENT™)",
+    pro: "专业版 (PREVENT™)",
   },
   ads: {
     zone: "广告展示区 (桌面端侧边栏 / 移动端结果下方)"

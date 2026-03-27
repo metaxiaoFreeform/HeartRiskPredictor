@@ -1,13 +1,13 @@
 export const en = {
   hero: {
-    tag: "Inspired by AHA and PHRI Research Results",
+    tag: "Inspired by AHA PREVENT™ and PHRI Research Results",
     title: "1-Minute Cardiovascular Risk Assessment",
     subtitle: "Understand your cardiovascular health in 1 minute. No blood test required for our quick assessment mode.",
     github: "If you find this useful, please star it on GitHub! 🚀",
   },
   tabs: {
     quick: "Quick Test (NL-IHRS)",
-    pro: "AHA Pro (PREVENT™)",
+    pro: "Pro (PREVENT™)",
   },
   ads: {
     zone: "Ad Zone (Desktop Sidebar / Mobile Below Result)"
